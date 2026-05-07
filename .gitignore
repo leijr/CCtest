@@ -34,3 +34,6 @@ env/
 .vscode/
 *.swp
 *.swo
+# Simulink build artifacts
+slprj/
+*.slxc
